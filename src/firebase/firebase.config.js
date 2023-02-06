@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyABOTLhorghUSE65XowCLOGNfDULmJoXM4",
-  authDomain: "ema-john-simple-a7a92.firebaseapp.com",
-  projectId: "ema-john-simple-a7a92",
-  storageBucket: "ema-john-simple-a7a92.appspot.com",
-  messagingSenderId: "853262808476",
-  appId: "1:853262808476:web:4e7ee600823a81b130c459"
+  apiKey: "AIzaSyBUcKId5X8VJWnh0di11RJSLz1bCrnQhnE",
+  authDomain: "ema-john-project-3ccae.firebaseapp.com",
+  projectId: "ema-john-project-3ccae",
+  storageBucket: "ema-john-project-3ccae.appspot.com",
+  messagingSenderId: "370716103647",
+  appId: "1:370716103647:web:8ec0c8752c21df47d62a6a",
 };
 
 // Initialize Firebase
